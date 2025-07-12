@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\music_player\bin\Debug\net9.0\music_player.exe
+D:\Learn_programing\C#\music_player\bin\Debug\net9.0\music_player.deps.json
+D:\Learn_programing\C#\music_player\bin\Debug\net9.0\music_player.runtimeconfig.json
+D:\Learn_programing\C#\music_player\bin\Debug\net9.0\music_player.dll
+D:\Learn_programing\C#\music_player\bin\Debug\net9.0\music_player.pdb
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.AssemblyInfo.cs
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.sourcelink.json
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.dll
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\refint\music_player.dll
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.pdb
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\music_player.genruntimeconfig.cache
+D:\Learn_programing\C#\music_player\obj\Debug\net9.0\ref\music_player.dll
