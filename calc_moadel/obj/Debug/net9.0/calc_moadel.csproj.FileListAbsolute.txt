@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\calc_moadel\bin\Debug\net9.0\calc_moadel.exe
+D:\Learn_programing\C#\new_start\calc_moadel\bin\Debug\net9.0\calc_moadel.deps.json
+D:\Learn_programing\C#\new_start\calc_moadel\bin\Debug\net9.0\calc_moadel.runtimeconfig.json
+D:\Learn_programing\C#\new_start\calc_moadel\bin\Debug\net9.0\calc_moadel.dll
+D:\Learn_programing\C#\new_start\calc_moadel\bin\Debug\net9.0\calc_moadel.pdb
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.sourcelink.json
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.dll
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\refint\calc_moadel.dll
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.pdb
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\calc_moadel.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\calc_moadel\obj\Debug\net9.0\ref\calc_moadel.dll

@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\checkbigger\bin\Debug\net9.0\checkbigger.exe
+D:\Learn_programing\C#\new_start\checkbigger\bin\Debug\net9.0\checkbigger.deps.json
+D:\Learn_programing\C#\new_start\checkbigger\bin\Debug\net9.0\checkbigger.runtimeconfig.json
+D:\Learn_programing\C#\new_start\checkbigger\bin\Debug\net9.0\checkbigger.dll
+D:\Learn_programing\C#\new_start\checkbigger\bin\Debug\net9.0\checkbigger.pdb
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.sourcelink.json
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.dll
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\refint\checkbigger.dll
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.pdb
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\checkbigger.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\checkbigger\obj\Debug\net9.0\ref\checkbigger.dll

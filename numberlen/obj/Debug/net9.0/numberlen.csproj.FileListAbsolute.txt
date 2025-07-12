@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\numberlen\bin\Debug\net9.0\numberlen.exe
+D:\Learn_programing\C#\new_start\numberlen\bin\Debug\net9.0\numberlen.deps.json
+D:\Learn_programing\C#\new_start\numberlen\bin\Debug\net9.0\numberlen.runtimeconfig.json
+D:\Learn_programing\C#\new_start\numberlen\bin\Debug\net9.0\numberlen.dll
+D:\Learn_programing\C#\new_start\numberlen\bin\Debug\net9.0\numberlen.pdb
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.sourcelink.json
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.dll
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\refint\numberlen.dll
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.pdb
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\numberlen.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\numberlen\obj\Debug\net9.0\ref\numberlen.dll

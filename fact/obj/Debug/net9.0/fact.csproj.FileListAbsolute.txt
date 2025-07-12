@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\fact\bin\Debug\net9.0\fact.exe
+D:\Learn_programing\C#\new_start\fact\bin\Debug\net9.0\fact.deps.json
+D:\Learn_programing\C#\new_start\fact\bin\Debug\net9.0\fact.runtimeconfig.json
+D:\Learn_programing\C#\new_start\fact\bin\Debug\net9.0\fact.dll
+D:\Learn_programing\C#\new_start\fact\bin\Debug\net9.0\fact.pdb
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.sourcelink.json
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.dll
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\refint\fact.dll
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.pdb
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\fact.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\fact\obj\Debug\net9.0\ref\fact.dll

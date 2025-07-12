@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\Checkodd\bin\Debug\net9.0\Checkodd.exe
+D:\Learn_programing\C#\new_start\Checkodd\bin\Debug\net9.0\Checkodd.deps.json
+D:\Learn_programing\C#\new_start\Checkodd\bin\Debug\net9.0\Checkodd.runtimeconfig.json
+D:\Learn_programing\C#\new_start\Checkodd\bin\Debug\net9.0\Checkodd.dll
+D:\Learn_programing\C#\new_start\Checkodd\bin\Debug\net9.0\Checkodd.pdb
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.sourcelink.json
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.dll
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\refint\Checkodd.dll
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.pdb
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\Checkodd.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\Checkodd\obj\Debug\net9.0\ref\Checkodd.dll

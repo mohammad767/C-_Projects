@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\calc\bin\Debug\net9.0\calc.exe
+D:\Learn_programing\C#\new_start\calc\bin\Debug\net9.0\calc.deps.json
+D:\Learn_programing\C#\new_start\calc\bin\Debug\net9.0\calc.runtimeconfig.json
+D:\Learn_programing\C#\new_start\calc\bin\Debug\net9.0\calc.dll
+D:\Learn_programing\C#\new_start\calc\bin\Debug\net9.0\calc.pdb
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.sourcelink.json
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.dll
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\refint\calc.dll
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.pdb
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\calc.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\calc\obj\Debug\net9.0\ref\calc.dll

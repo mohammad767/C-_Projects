@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\primechecker\bin\Debug\net9.0\primechecker.exe
+D:\Learn_programing\C#\new_start\primechecker\bin\Debug\net9.0\primechecker.deps.json
+D:\Learn_programing\C#\new_start\primechecker\bin\Debug\net9.0\primechecker.runtimeconfig.json
+D:\Learn_programing\C#\new_start\primechecker\bin\Debug\net9.0\primechecker.dll
+D:\Learn_programing\C#\new_start\primechecker\bin\Debug\net9.0\primechecker.pdb
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.sourcelink.json
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.dll
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\refint\primechecker.dll
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.pdb
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\primechecker.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\primechecker\obj\Debug\net9.0\ref\primechecker.dll

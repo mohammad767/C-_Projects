@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.sourcelink.json
+D:\Learn_programing\C#\new_start\cando_train\bin\Debug\net9.0\cando_train.exe
+D:\Learn_programing\C#\new_start\cando_train\bin\Debug\net9.0\cando_train.deps.json
+D:\Learn_programing\C#\new_start\cando_train\bin\Debug\net9.0\cando_train.runtimeconfig.json
+D:\Learn_programing\C#\new_start\cando_train\bin\Debug\net9.0\cando_train.dll
+D:\Learn_programing\C#\new_start\cando_train\bin\Debug\net9.0\cando_train.pdb
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.dll
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\refint\cando_train.dll
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.pdb
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\cando_train.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\cando_train\obj\Debug\net9.0\ref\cando_train.dll

@@ -1,0 +1,15 @@
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.AssemblyInfoInputs.cache
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.AssemblyInfo.cs
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.csproj.CoreCompileInputs.cache
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.sourcelink.json
+D:\Learn_programing\C#\new_start\charger\bin\Debug\net9.0\charger.exe
+D:\Learn_programing\C#\new_start\charger\bin\Debug\net9.0\charger.deps.json
+D:\Learn_programing\C#\new_start\charger\bin\Debug\net9.0\charger.runtimeconfig.json
+D:\Learn_programing\C#\new_start\charger\bin\Debug\net9.0\charger.dll
+D:\Learn_programing\C#\new_start\charger\bin\Debug\net9.0\charger.pdb
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.dll
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\refint\charger.dll
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.pdb
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\charger.genruntimeconfig.cache
+D:\Learn_programing\C#\new_start\charger\obj\Debug\net9.0\ref\charger.dll
